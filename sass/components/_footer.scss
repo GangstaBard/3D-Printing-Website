@@ -1,0 +1,13 @@
+.footer {
+  padding: 20rem 0;
+  background-color: $color-grey-dark-3;
+
+  &__box {
+    display: flex;
+    justify-content: space-around;
+    gap: 20%;
+  }
+
+  &__contact {
+  }
+}
